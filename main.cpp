@@ -8,7 +8,7 @@ int main(){
   if (numerip(n, n-1)){
     cout<<"numero primo"<<endl;
   }else{
-    cout << "numero non primo" <<
+    cout << "numero non primo" <<endl;
     }
   return 0;
 }
