@@ -6,3 +6,4 @@
 #endif //INC_7_NUMERI-PRIMI_LORESQUERI_LIB_H
 
 bool numerip (int, int);
+
