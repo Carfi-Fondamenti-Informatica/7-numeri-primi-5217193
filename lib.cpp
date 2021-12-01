@@ -13,3 +13,5 @@ bool numerip (int n, int a){
   }
   numerip(n,--a);
 }
+
+return 0;
